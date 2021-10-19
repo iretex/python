@@ -1,0 +1,6 @@
+env/
+*checkpoints
+venv
+*env
+.zip
+stut
